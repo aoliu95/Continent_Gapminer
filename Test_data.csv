@@ -1,0 +1,62 @@
+OrderID,Duration,Start.date,End.date,Start.station.number,Start.station,End.station.number,End.station,Bike.number,Member.type
+94588,264,1/27/14,1/27/14,31623,Columbus Circle / Union Station,31631,8th & F St NE,W21485,Member
+945881,264,1/27/14,1/27/14,31623,Columbus Circle / Union Station,31631,8th & F St NE,W21485,Member
+158136,696,2/11/14,2/11/14,31626,15th St & Massachusetts Ave SE,31624,North Capitol St & F St NW,W20261,Member
+44893,442,1/14/14,1/14/14,31604,3rd & H St NW,31629,8th & East Capitol St NE,W01370,Member
+194737,705,2/21/14,2/21/14,31216,14th St & New York Ave NW,31101,14th & V St NW,W20498,Member
+163230,160,2/12/14,2/12/14,31228,8th & H St NW,31620,5th & F St NW,W00138,Member
+126597,251,2/4/14,2/4/14,31114,18th St & Wyoming Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W20894,Member
+68281,194,1/18/14,1/18/14,31223,Convention Center / 7th & M St NW,31228,8th & H St NW,W21074,Member
+152081,453,2/9/14,2/9/14,31600,5th & K St NW,31256,10th & E St NW,W21579,Member
+28012,355,1/10/14,1/10/14,31241,Thomas Circle,31600,5th & K St NW,W21578,Member
+7348,522,1/3/14,1/3/14,31507,1st & Washington Hospital Center NW,31502,John McCormack Dr & Michigan Ave NE,W20790,Member
+41022,1853,1/13/14,1/13/14,31218,L'Enfant Plaza / 7th & C St SW,31107,Lamont & Mt Pleasant NW,W20223,Member
+145022,587,2/7/14,2/7/14,31234,20th & O St NW / Dupont South,31239,Rhode Island & Connecticut Ave NW,W01322,Member
+171736,215,2/16/14,2/16/14,31121,Calvert St & Woodley Pl NW,31104,Adams Mill & Columbia Rd NW,W21134,Member
+76893,772,1/20/14,1/20/14,31604,3rd & H St NW,31109,7th & T St NW,W00111,Member
+91236,603,1/26/14,1/26/14,31503,Florida Ave & R St NW,31115,Columbia Rd & Georgia Ave NW,W20213,Member
+24995,484,1/9/14,1/9/14,31204,20th & E St NW,31221,18th & M St NW,W00009,Member
+148071,942,2/8/14,2/8/14,31248,Smithsonian-National Mall / Jefferson Dr & 12th St SW,31609,Maine Ave & 7th St SW,W20836,Member
+113337,569,2/1/14,2/1/14,31606,Potomac & Pennsylvania Ave SE,31614,11th & H St NE,W00891,Member
+180643,472,2/18/14,2/19/14,31265,5th St & Massachusetts Ave NW,31627,3rd & M St NE,W20013,Member
+71661,462,1/19/14,1/19/14,31629,8th & East Capitol St NE,31608,8th & Eye St SE / Barracks Row,W20094,Member
+81149,763,1/22/14,1/22/14,31120,10th & Florida Ave NW,31505,Eckington Pl & Q St NE,W20963,Member
+37990,799,1/13/14,1/13/14,31263,10th & K St NW,31232,7th & F St NW / National Portrait Gallery,W21576,Casual
+81425,395,1/22/14,1/22/14,31118,3rd & Elm St NW,31245,7th & R St NW / Shaw Library,W00149,Member
+185745,625,2/19/14,2/19/14,31111,10th & U St NW,31104,Adams Mill & Columbia Rd NW,W00251,Member
+193389,248,2/21/14,2/21/14,31214,17th & Corcoran St NW,31241,Thomas Circle,W00169,Member
+124236,462,2/3/14,2/3/14,31233,17th & K St NW / Farragut Square,31201,15th & P St NW,W01388,Member
+191588,307,2/20/14,2/20/14,31303,Tenleytown / Wisconsin Ave & Albemarle St NW,31309,Fessenden St & Wisconsin Ave NW,W20464,Member
+80940,375,1/21/14,1/21/14,31619,Lincoln Park / 13th & East Capitol St NE ,31618,4th & East Capitol St NE,W20359,Member
+127125,704,2/4/14,2/4/14,31105,14th & Harvard St NW,31227,13th St & New York Ave NW,W00511,Member
+133938,224,2/5/14,2/5/14,31229,New Hampshire Ave & T St NW,31200,Massachusetts Ave & Dupont Circle NW,W20079,Member
+86264,559,1/24/14,1/24/14,31239,Rhode Island & Connecticut Ave NW,31111,10th & U St NW,W00370,Member
+74928,1377,1/20/14,1/20/14,31252,21st St & Pennsylvania Ave NW,31224,19th & L St NW,W21008,Casual
+125987,194,2/4/14,2/4/14,31200,Massachusetts Ave & Dupont Circle NW,31253,19th & K St NW,W20506,Member
+41439,378,1/13/14,1/13/14,31623,Columbus Circle / Union Station,31622,13th & D St NE,W20627,Member
+189542,157,2/20/14,2/20/14,31204,20th & E St NW,31252,21st St & Pennsylvania Ave NW,W01080,Member
+28661,321,1/10/14,1/10/14,31107,Lamont & Mt Pleasant NW,31104,Adams Mill & Columbia Rd NW,W21443,Member
+105283,223,1/30/14,1/30/14,31206,19th & E Street NW,31242,18th St & Pennsylvania Ave NW,W00738,Member
+182441,226,2/19/14,2/19/14,31204,20th & E St NW,31257,22nd & I St NW / Foggy Bottom,W01183,Member
+132764,1401,2/5/14,2/5/14,31251,12th & L St NW,31619,Lincoln Park / 13th & East Capitol St NE ,W20610,Member
+99760,183,1/28/14,1/28/14,31200,Massachusetts Ave & Dupont Circle NW,31224,19th & L St NW,W00354,Member
+66840,1065,1/18/14,1/18/14,31304,36th & Calvert St NW / Glover Park,31304,36th & Calvert St NW / Glover Park,W20595,Member
+174230,771,2/17/14,2/17/14,31610,Eastern Market / 7th & North Carolina Ave SE,31616,3rd & H St NE,W20948,Member
+74775,487,1/20/14,1/20/14,31025,Central Library / N Quincy St & 10th St N,31021,Clarendon Blvd & N Fillmore St,W20563,Member
+67646,122,1/18/14,1/18/14,31626,15th St & Massachusetts Ave SE,31607,14th & D St SE,W00156,Member
+110099,475,1/31/14,1/31/14,31272,Washington & Independence Ave SW/HHS,31623,Columbus Circle / Union Station,W00361,Member
+158665,332,2/11/14,2/11/14,31202,14th & R St NW,31111,10th & U St NW,W00962,Member
+32335,416,1/12/14,1/12/14,31223,Convention Center / 7th & M St NW,31202,14th & R St NW,W21584,Member
+41204,599,1/13/14,1/13/14,31253,19th & K St NW,31600,5th & K St NW,W00878,Member
+86380,553,1/24/14,1/24/14,31208,M St & New Jersey Ave SE,31623,Columbus Circle / Union Station,W20948,Member
+3825,899,1/2/14,1/2/14,31267,17th St & Massachusetts Ave NW,31265,5th St & Massachusetts Ave NW,W00769,Member
+159269,617,2/11/14,2/11/14,31244,4th & E St SW,31623,Columbus Circle / Union Station,W21352,Member
+40541,3138,1/13/14,1/13/14,31038,Glebe Rd & 11th St N,31628,1st & K St SE,W20585,Member
+151476,527,2/9/14,2/9/14,31404,9th & Upshur St NW,31602,Park Rd & Holmead Pl NW,W21267,Member
+198843,641,2/22/14,2/22/14,31237,25th St & Pennsylvania Ave NW,31101,14th & V St NW,W21366,Member
+42622,404,1/13/14,1/13/14,31200,Massachusetts Ave & Dupont Circle NW,31268,12th & U St NW,W20982,Member
+80317,518,1/21/14,1/21/14,31623,Columbus Circle / Union Station,31632,15th & F St NE,W00246,Member
+94618,416,1/27/14,1/27/14,31610,Eastern Market / 7th & North Carolina Ave SE,31623,Columbus Circle / Union Station,W01165,Member
+13680,221,1/6/14,1/6/14,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31605,3rd & D St SE,W21407,Member
+123808,436,2/3/14,2/3/14,31111,10th & U St NW,31116,California St & Florida Ave NW,W00770,Member
+148099,144,2/8/14,2/8/14,31102,11th & Kenyon St NW,31602,Park Rd & Holmead Pl NW,W20811,Member
